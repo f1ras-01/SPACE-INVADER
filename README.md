@@ -1,2 +1,2 @@
 # SPACE-INVADER
-a 2D game using pygame
+a 2D game using turtle
